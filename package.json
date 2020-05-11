@@ -1,10 +1,10 @@
 {
-  "name": "npx-radavis",
+  "name": "@radavis/radavis",
   "version": "0.1.0",
   "description": "A personal card for Richard Davis (@radavis)",
   "main": "/bin/card.js",
   "bin": {
-    "radavis": "./bin/card.js"
+    "radavis": "bin/card.js"
   },
   "repository": {
     "type": "git",
