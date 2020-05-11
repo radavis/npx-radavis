@@ -1,16 +1,16 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "radavis",
+  "version": "0.1.0",
+  "description": "A personal card for Richard Davis (@radavis)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "radavis": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/radavis/npx-radavis.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://radavis.github.io",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Richard Davis <rdavis.bacs@gmail.com> (https://radavis.github.io/)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -34,11 +34,11 @@
   ],
   "devDependencies": {
     "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
+    "chalk": "^2.4.2",
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/radavis/npx-radavis/issues"
   },
   "dependencies": {},
   "publishConfig": {
