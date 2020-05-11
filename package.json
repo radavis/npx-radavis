@@ -1,5 +1,5 @@
 {
-  "name": "@radavis/card",
+  "name": "npx-radavis",
   "version": "0.1.0",
   "description": "A personal card for Richard Davis (@radavis)",
   "main": "/bin/card.js",
