@@ -1,5 +1,5 @@
 {
-  "name": "@radavis/radavis",
+  "name": "radavis",
   "version": "0.1.0",
   "description": "A personal card for Richard Davis (@radavis)",
   "main": "/bin/card.js",
@@ -12,7 +12,6 @@
   },
   "homepage": "https://radavis.github.io",
   "scripts": {
-    "prepublish": "npm run build",
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
     "lint": "standard",
